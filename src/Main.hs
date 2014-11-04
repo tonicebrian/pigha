@@ -1,5 +1,5 @@
 module Main where
 
-import PigHa.PigHa
+import Data.PigHa
 
 main = putStrLn "Hola mundo"
